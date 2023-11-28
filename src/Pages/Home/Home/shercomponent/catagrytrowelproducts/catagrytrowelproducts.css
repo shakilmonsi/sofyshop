@@ -1,0 +1,9 @@
+.catagoraytowel_product {
+        
+       
+grid-template-columns: repeat(12,1fr);
+
+}
+.pading_full_display{
+        padding: 50px;
+}
